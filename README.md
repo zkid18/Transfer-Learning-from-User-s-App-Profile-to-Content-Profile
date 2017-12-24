@@ -1,2 +1,3 @@
 # Transfer-Learning-from-User-s-App-Profile-to-Content-Profile
-5001 project. We have applied transfer learning to solve cold start problem
+For a new user in recommendation app, it lacks data on user behavior (User behavior is important for advertising and preference recommendation).
+This will cause app recommendation fail because nowadays recommendation system are mostly based on machine learning which requires a big mount of data. So, there is always a cold start problem, because of lacking data in project domain especially in recommendation system. This can be solved by transfer learning when we have data in a similar domain. We aim to solve the problem by transfer learning target domain to a similar domain with high confidence and get the predictive result.
